@@ -1,0 +1,53 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<article>
+    <metadata>
+        <id>001</id>
+        <category>Technology</category>
+        <keywords>
+            <keyword>XML</keyword>
+            <keyword>Data Processing</keyword>
+            <keyword>Automation</keyword>
+        </keywords>
+        <published_date>2026-03-21</published_date>
+    </metadata>
+
+    <title>Understanding XML for Data Processing</title>
+
+    <author>
+        <name>Bnila Chambial</name>
+        <email>bnilachambial@gmail.com</email>
+    </author>
+
+    <summary>
+        XML (eXtensible Markup Language) is a flexible way to structure and 
+        transport data. This sample document demonstrates the basic elements 
+        commonly found in structured content.
+    </summary>
+
+    <body>
+        <section>
+            <heading>Introduction</heading>
+            <paragraph>
+                XML allows developers and systems to store information in a 
+                readable format that is both human‑friendly and machine‑processable.
+            </paragraph>
+        </section>
+
+        <section>
+            <heading>Why XML?</heading>
+            <paragraph>
+                XML is platform‑independent, widely supported, and ideal for 
+                scenarios where structured data interchange is required.
+            </paragraph>
+        </section>
+
+        <section>
+            <heading>Conclusion</heading>
+            <paragraph>
+                As a versatile markup language, XML continues to play an important 
+                role in data pipelines, configuration files, and enterprise systems.
+            </paragraph>
+        </section>
+    </body>
+</article>

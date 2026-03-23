@@ -1,0 +1,31 @@
+
+xml_processing:
+  input:
+    directory: "./new/first"
+    file_pattern: "*.xml"
+    recursive: false
+
+  parsing:
+    validate_schema: false
+    schema_path: ""
+
+  extraction:
+    fields:
+      - name: "title"
+        xpath: "/book/title/text()"
+      - name: "author"
+        xpath: "/book/author/text()"
+      - name: "year"
+        xpath: "/book/year/text()"
+
+  transformations:
+    enabled: true
+    rules:
+      - type: "uppercase"
+        target: "title"
+
+  output:
+    format: "json"
+    directory: "./output"
+    pretty_print: true
+``
