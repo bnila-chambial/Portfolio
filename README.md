@@ -47,7 +47,7 @@ I am a Senior Technical Writer with 8+ years of experience delivering high-quali
 - Established a process for continuous documentation updates, keeping help manuals current with evolving product features and minimizing content gaps
 - Use of **WhatFix** to support customer specific documentation queries
  *Product:* AI based Contract Development Application
-  ### Technical Writer II - Information Developer 
+### Technical Writer II - Information Developer 
 **Capgemini Engineering** 
 - Delivered **cloud-based documentation** and online help guides, improving user onboarding and self-service capabilities
 - Streamlined documentation workflows by adopting a **docs-as-code** approach (VS Code + GitHub), enhancing collaboration and reducing publishing errors
