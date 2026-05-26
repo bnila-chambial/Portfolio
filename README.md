@@ -20,11 +20,11 @@ I am a Senior Technical Writer with 8+ years of experience delivering high-quali
 - **Note:** An innitiative to leverage the Copilot M365 capabilities
 
 ## 💼 Tools and Technologies 
-- **Authoring:** RoboHelp, FrameMaker, MS Word, OxygenXML 
+- **Authoring:** RoboHelp, FrameMaker, MS Word, OxygenXML, Camtasia
 - **API Tools:** SwaggerHub, Postman
 - **Version Control:** Git, GitHub, Customized CMS
 - **CMS:** Confluence, SharePoint
-- **Others** WhatFix, VSC, Trello, MS Applications
+- **Others** WhatFix, VSC, Trello, PowerAutomate
 - **Languages:** Markdown, HTML, CSS, XML
 
 ## 📚 Experience
