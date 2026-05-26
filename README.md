@@ -42,7 +42,7 @@ I am s Senior Technical Writer with 8+ years of experience delivering high-quali
 ## 📫 Get In Touch
 
 - **Email:** [bnilachambial@gmail.com]
-- **LinkedIn:** [[Your LinkedIn](https://www.linkedin.com/in/bnila-chambial-technicalwriter/)]
+- **LinkedIn:** [[My Profile](https://www.linkedin.com/in/bnila-chambial-technicalwriter/)]
 - **GitHub:** [@bnila-chambial](https://github.com/bnila-chambial)
 
 ---
