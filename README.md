@@ -4,17 +4,17 @@ Welcome to my portfolio!
 I am s Senior Technical Writer with 8+ years of experience delivering high-quality documentation for SaaS and enterprise platforms. Skilled in API documentation, content strategy, and docs-as-code workflows. Proven success in improving user adoption, reducing support tickets, and streamlining documentation processes through automation, Copilot, and structured content design.
 ## 🚀 Featured Projects
 
-### Project 1: [Use of AI in Release Notes Generation Process]
+### Use of AI in Release Notes Generation Process
 - **Description:** Leveraged local LLM such as Ollma, gemma, etc to automate the creation of release notes by extracting key updates from engineering inputs, commits, and Jira tickets. Improved accuracy, reduced turnaround time, and ensured consistency in communication across product releases while minimizing manual effort of the documentation team.
 - **Technologies:** Python, VSC, LLM
 - **Note:** For internal use only
 
-### Project 2: [ Improvement in Review Process Using Power Automate Workflows in SharePoint]
+### Improvement in Review Process Using Power Automate Workflows in SharePoint
 - **Description:** Streamlined the documentation review lifecycle by implementing Power Automate workflows integrated with SharePoint. Automated approval routing, version tracking, and notifications, resulting in faster review cycles, improved stakeholder collaboration, and enhanced compliance with documentation standards.
 - **Technologies:** Power Automate, SharePoint Workflows 
 - **Note:** For cross-functional teams in association with IT team to stay complaint with company  guidelines.
 
-### Project 2: [ Improvement in Review Process Using Power Automate Workflows in SharePoint]
+### Automation in Review Process 
 - **Description:** Created Copilot-based agent to generate structured storyboards for eLearning modules from raw content inputs, reducing content development effort. Ensured consistency in instructional design and improved scalability of learning content production.
 - **Technologies:** Copilot M365
 - **Note:** An innitiative to leverage the Copilot M365 capabilities
@@ -29,15 +29,45 @@ I am s Senior Technical Writer with 8+ years of experience delivering high-quali
 
 ## 📚 Experience
 
-### [Senior Technical Writer]
-**[Landis+Gyr]** | [Current]
-- Achievement or responsibility
-- Achievement or responsibility
+### Senior Technical Writer
+**Landis+Gyr** | Presently Working
+- Developing and maintaining comprehensive legacy **product documentation**, improving user onboarding and self-service capabilities
+- Managing documentation lifecycle using **SharePoint**, ensuring structured content organization, version control, and easy accessibility for stakeholders
+- Using **Azure DevOps Boards** to track documentation tasks, align with sprint cycles, and ensure timely delivery alongside product releases
+- Played a key role in projects like **AI in documentation initiatives**, enhancing content structure, navigation, and usability to improve overall user experience
+- Designed and delivered **hands-on tutorials and real-world examples** to demonstrate product features, increasing product adoption and usability
+- Collaborating closely with **Product Managers, support teams, and stakeholders** to identify key use cases, workflows, and content gaps.
+*Products:* SaaS based Metering Solution Applications and Grid Analytics
 
+### Senior Technical Writer
+**Sirion Pvt Ltd** 
+- Development and maintenance of **product online help manuals**, ensuring comprehensive, accurate, and user-friendly documentation for end users
+- Incorporated **customer support feedbac**k into documentation updates, improving content relevance and reducing recurring support queries
+- Owned the creation and delivery of **release notes**, ensuring clear communication of new features, enhancements, and bug fixes aligned with product releases
+- Established a process for continuous documentation updates, keeping help manuals current with evolving product features and minimizing content gaps
+- Use of **WhatFix** to support customer specific documentation queries
+ *Product:* AI based Contract Development Application
+  ### Technical Writer II - Information Developer 
+**Capgemini Engineering** 
+- Delivered **cloud-based documentation** and online help guides, improving user onboarding and self-service capabilities
+- Streamlined documentation workflows by adopting a **docs-as-code** approach (VS Code + GitHub), enhancing collaboration and reducing publishing errors
+- Enhanced user experience by integrating visual aids and infographics, making complex technical information easier to understand in **CLI Documenation**
+- Aligned documentation with **Agile development processes**, ensuring timely updates and release readiness
+- Worked with customized **Content Management Systems** for documentation creation and Compliance.
+ *Customers*: IBM and Cisco
+    ### Technical Writer I 
+**NEC Technologies** 
+- Delivered** structured documentation using DITA**, enabling content reuse and efficient generation of PDF and HTML outputs
+- Produced **developer-focused API documentation in SwaggerHub**, improving integration experience and reducing dependency on engineering teams
+- Enhanced collaboration through **Confluence-based documentation workflows**, ensuring up-to-date and accessible content
+- Created **end-to-end user documentation**, including installation guides and tutorials, improving onboarding and product adoption
+- Acted as a key liaison between **engineering teams**, ensuring accuracy and completeness of technical content
+- Aligned documentation with **Agile methodologies**, ensuring timely delivery and release readiness
+  *Products:* In-House Products 
 ## 🎓 Education
 
-- **[Master's Degree]** in [Control Systems] - [Amity University] ([2014-2016])
-- **[Bachelor's Degree]** in [ECE] - [Lovely Professional University] ([2009-2013])
+- **Master's Degree** in Control Systems - Amity University (2014-2016)
+- **[Bachelor's Degree]** in ECE - Lovely Professional University (2009-2013)
 
 ## 📫 Get In Touch
 
