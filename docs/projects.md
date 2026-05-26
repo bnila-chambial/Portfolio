@@ -6,7 +6,7 @@ has_children: true
 description: "Featured Projects & Case Studies"
 ---
 
-# My Projects
+# Our Projects
 
 Most of the projects where i have participated actively and contributed are at the organisation level.
 
