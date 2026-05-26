@@ -56,7 +56,7 @@ I am a Senior Technical Writer with 8+ years of experience delivering high-quali
 - Represented team and Secured **Second Position** in **office sports tournaments**, demonstrating teamwork, discipline, and competitive spirit
 - Secured 1st Prize in Mixed Doubles Noida **Table-Tennis championship** Table Tennis at Capgemini sports tournament
 
-[Download Resume](./resume.pdf)
+[Download Resume](./Resume.pdf)
 ## 📫 Get In Touch
 
 - **Email:** [bnilachambial@gmail.com]
