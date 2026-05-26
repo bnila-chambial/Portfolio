@@ -48,10 +48,10 @@ I believe in:
 
 ## Fun Facts
 
-⚡ **Strong Technical Aptitude** – Able to quickly understand, analyze, and interpret complex technical systems, enabling accurate and efficient documentation
-🎯 **High-Performance Delivery** – Successfully handled multiple high-priority documentation deliverables under tight deadlines, demonstrating resilience and consistency
-🌍 **Global Collaboration Experience** – Worked with cross-functional teams across multiple geographies, ensuring clear communication and alignment in distributed environments
-📝 **Extensive Content Creation** – Authored versitle technical documents, including user guides, installation guides,release Notes, elearning modules, CLI guide, online helpsAPI guide, and Compliance douments.
+- ⚡ **Strong Technical Aptitude** – Able to quickly understand, analyze, and interpret complex technical systems, enabling accurate and efficient documentation
+- 🎯 **High-Performance Delivery** – Successfully handled multiple high-priority documentation deliverables under tight deadlines, demonstrating resilience and consistency
+- 🌍 **Global Collaboration Experience** – Worked with cross-functional teams across multiple geographies, ensuring clear communication and alignment in distributed environments
+- 📝 **Extensive Content Creation** – Authored versitle technical documents, including user guides, installation guides,release Notes, elearning modules, CLI guide, online helpsAPI guide, and Compliance douments.
 
 ---
 
