@@ -17,7 +17,7 @@ I am s Senior Technical Writer with 8+ years of experience delivering high-quali
 ### Project 2: [ Improvement in Review Process Using Power Automate Workflows in SharePoint]
 - **Description:** Created Copilot-based agent to generate structured storyboards for eLearning modules from raw content inputs, reducing content development effort. Ensured consistency in instructional design and improved scalability of learning content production.
 - **Technologies:** Copilot M365
-- **Note:** .
+- **Note:** An innitiative to leverage the Copilot M365 capabilities
 
 ## 💼 Tools and Technologies 
 - **Authoring:** RoboHelp, FrameMaker, MS Word, OxygenXML 
