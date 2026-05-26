@@ -68,8 +68,8 @@ I am s Senior Technical Writer with 8+ years of experience delivering high-quali
 ##  👉 🎯 Professional Engagement & Extracurricular Activities
 - Volunteered in T**ree Plantation drive**
 - Organized festival celebration **events** for coordination, and smooth execution
-- Represented team in **office sports tournaments**, demonstrating teamwork, discipline, and competitive spirit
-- Won **First Prize** in Noida **Table-Tennis championship** 2023 for Mixed Double
+- Represented team and Secured **Second Position** in **office sports tournaments**, demonstrating teamwork, discipline, and competitive spirit
+- Secured 1st Prize in Mixed Doubles Noida **Table-Tennis championship** Table Tennis at Capgemini sports tournament
 
 ## 🎓 Education
 
