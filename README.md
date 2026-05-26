@@ -1,3 +1,10 @@
+---
+layout: default
+title: Projects
+nav_order: 2
+has_children: true
+description: "Featured Projects & Case Studies"
+---
 # BNILA CHAMBIAL 
 
 Welcome to my portfolio! 
