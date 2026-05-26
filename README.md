@@ -39,8 +39,9 @@ I am a Senior Technical Writer with 8+ years of experience delivering high-quali
 - Enhanced user experience by integrating visual aids and infographics, making complex technical information easier to understand in **CLI Documenation**
 - Aligned documentation with **Agile development processes**, ensuring timely updates and release readiness
 - Worked with customized **Content Management Systems** for documentation creation and Compliance.
- *Customers*: IBM and Cisco
-    ### Technical Writer I 
+- *Customers*: IBM and Cisco
+
+### Technical Writer I 
 **NEC Technologies** 
 - Delivered** structured documentation using DITA**, enabling content reuse and efficient generation of PDF and HTML outputs
 - Produced **developer-focused API documentation in SwaggerHub**, improving integration experience and reducing dependency on engineering teams
