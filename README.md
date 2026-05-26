@@ -1,7 +1,7 @@
 # BNILA CHAMBIAL 
 
 Welcome to my portfolio! 
-I am s Senior Technical Writer with 8+ years of experience delivering high-quality documentation for SaaS and enterprise platforms. Skilled in API documentation, content strategy, and docs-as-code workflows. Proven success in improving user adoption, reducing support tickets, and streamlining documentation processes through automation, Copilot, and structured content design.
+I am a Senior Technical Writer with 8+ years of experience delivering high-quality documentation for SaaS and enterprise platforms. Skilled in API documentation, content strategy, and docs-as-code workflows. Proven success in improving user adoption, reducing support tickets, and streamlining documentation processes through automation, Copilot, and structured content design.
 ## 🚀 Featured Projects
 
 ### Use of AI in Release Notes Generation Process
