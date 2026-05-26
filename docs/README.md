@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: About Me
+nav_order: 1`
+description: "About Bnila Chambial - Technical Writer"
+---
 # Experience and Expertise
 
 Welcome to my portfolio! 
