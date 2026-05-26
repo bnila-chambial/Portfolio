@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Me
-nav_order: 3
+nav_order: 2
 description: "About Bnila Chambial - Technical Writer"
 ---
 
