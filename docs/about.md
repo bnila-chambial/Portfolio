@@ -64,6 +64,11 @@ I'm always excited to discuss:
 - Collaboration on exciting projects
 - Career growth and development
 
+## 🎓 Education
+
+- **Master's Degree** in Control Systems - Amity University (2014-2016)
+- **Bachelor's Degree** in ECE - Lovely Professional University (2009-2013)
+
 **Reach out to me:**
 
 📧 **Email:** [your.email@example.com](mailto:bnilachambial@gmail.com)  
