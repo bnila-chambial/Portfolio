@@ -43,7 +43,7 @@ I am a Senior Technical Writer with 8+ years of experience delivering high-quali
 
 ### Technical Writer I 
 **NEC Technologies** 
-- Delivered** structured documentation using DITA**, enabling content reuse and efficient generation of PDF and HTML outputs
+- Delivered **structured documentation using DITA**, enabling content reuse and efficient generation of PDF and HTML outputs
 - Produced **developer-focused API documentation in SwaggerHub**, improving integration experience and reducing dependency on engineering teams
 - Enhanced collaboration through **Confluence-based documentation workflows**, ensuring up-to-date and accessible content
 - Created **end-to-end user documentation**, including installation guides and tutorials, improving onboarding and product adoption
@@ -52,7 +52,7 @@ I am a Senior Technical Writer with 8+ years of experience delivering high-quali
   *Products:* In-House Products
   
 ##  👉 🎯 Professional Engagement & Extracurricular Activities
-- Volunteered in T**ree Plantation drive**
+- Volunteered in **Tree Plantation drive**
 - Organized festival celebration **events** for coordination, and smooth execution
 - Represented team and Secured **Second Position** in **office sports tournaments**, demonstrating teamwork, discipline, and competitive spirit
 - Secured 1st Prize in Mixed Doubles Noida **Table-Tennis championship** Table Tennis at Capgemini sports tournament
