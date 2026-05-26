@@ -1,24 +1,41 @@
-# Jekyll configuration for GitHub Pages
+# Jekyll configuration for GitHub Pages with Just the Docs theme
 
-title: Bnila's Portfolio
-description: A showcase of my projects and skills
-author: Bnila Chambial
+title: Nila Chambial's Portfolio
+description: A showcase of my projects, documentation, and technical expertise
+author: Nila Chambial
 email: your.email@example.com
 
-# Theme
-theme: jekyll-theme-documentation
-# Other themes: jekyll-theme-cayman, jekyll-theme-slate, jekyll-theme-architect, jekyll-theme-time-machine
+# Remote theme - Just the Docs
+remote_theme: just-the-docs/just-the-docs
 
 # Site URL
 url: "https://bnila-chambial.github.io"
 baseurl: "/Portfolio"
 
+# Search settings
+search_enabled: true
+search.heading_level: 2
+search.previews: 2
+search.preview_words_before: 5
+search.preview_words_after: 10
+
+# Color scheme: light (default) or dark
+color_scheme: light
+
 # Social links
 github_username: bnila-chambial
-# linkedin_username: yourprofile
+linkedin_username: yourprofile
 # twitter_username: yourhandle
+
+# Enables callouts using block quotes
+enable_copy_code_button: true
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+# Navigation settings
+nav_order: 1
+has_children: false
