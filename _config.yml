@@ -1,0 +1,24 @@
+# Jekyll configuration for GitHub Pages
+
+title: Nila's Portfolio
+description: A showcase of my projects and skills
+author: Nila Chambial
+email: your.email@example.com
+
+# Theme
+theme: jekyll-theme-minimal
+# Other themes: jekyll-theme-cayman, jekyll-theme-slate, jekyll-theme-architect, jekyll-theme-time-machine
+
+# Site URL
+url: "https://bnila-chambial.github.io"
+baseurl: "/Portfolio"
+
+# Social links
+github_username: bnila-chambial
+# linkedin_username: yourprofile
+# twitter_username: yourhandle
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
