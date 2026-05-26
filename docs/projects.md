@@ -8,52 +8,24 @@ description: "Featured Projects & Case Studies"
 
 # My Projects
 
-A collection of my recent work showcasing full-stack development, cloud architecture, and innovative solutions.
+Most of the projects where i have participated actively and contributed are at the organisation level.
 
 ---
 
 ## Projects Overview
 
-{: .fs-5 .fw-300 }
-Each project below represents significant technical challenges solved and lessons learned in production environments.
+### Use of AI in Release Notes Generation Process
+- **Description:** Leveraged local LLM such as Ollma, gemma, etc to automate the creation of release notes by extracting key updates from engineering inputs, commits, and Jira tickets. Improved accuracy, reduced turnaround time, and ensured consistency in communication across product releases while minimizing manual effort of the documentation team.
+- **Technologies:** Python, VSC, LLM
+- **Note:** For internal use only
 
----
+### Improvement in Review Process Using Power Automate Workflows in SharePoint
+- **Description:** Streamlined the documentation review lifecycle by implementing Power Automate workflows integrated with SharePoint. Automated approval routing, version tracking, and notifications, resulting in faster review cycles, improved stakeholder collaboration, and enhanced compliance with documentation standards.
+- **Technologies:** Power Automate, SharePoint Workflows 
+- **Note:** For cross-functional teams in association with IT team to stay complaint with company  guidelines.
 
-## Featured Projects
-
-### E-Commerce Platform
-Real-time e-commerce solution with inventory management and payment processing. Handles 50K+ monthly transactions with 99.9% uptime.
-
-[View Case Study →](./ecommerce.html)
-
----
-
-### Data Analytics Dashboard
-Interactive analytics platform with real-time visualizations, machine learning insights, and custom reporting capabilities.
-
-[View Case Study →](./analytics.html)
-
----
-
-### Cloud Infrastructure Tool
-DevOps automation platform for managing cloud resources, deployments, and CI/CD pipelines across multiple providers.
-
-[View Case Study →](./infrastructure.html)
-
----
-
-### Mobile App Backend
-Scalable REST API serving 100K+ daily active users with real-time synchronization and offline-first capabilities.
-
-[View Case Study →](./mobile.html)
-
----
-
-## Technology Stack Summary
-
-**Frontend:** React, Vue.js, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Python, Java, Go  
-**Databases:** PostgreSQL, MongoDB, Redis, Elasticsearch  
-**Cloud:** AWS, GCP, Azure  
-**DevOps:** Docker, Kubernetes, Terraform
+### Automation in Review Process 
+- **Description:** Created Copilot-based agent to generate structured storyboards for eLearning modules from raw content inputs, reducing content development effort. Ensured consistency in instructional design and improved scalability of learning content production.
+- **Technologies:** Copilot M365
+- **Note:** An innitiative to leverage the Copilot M365 capabilities
 
