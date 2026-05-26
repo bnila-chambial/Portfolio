@@ -63,11 +63,18 @@ I am s Senior Technical Writer with 8+ years of experience delivering high-quali
 - Created **end-to-end user documentation**, including installation guides and tutorials, improving onboarding and product adoption
 - Acted as a key liaison between **engineering teams**, ensuring accuracy and completeness of technical content
 - Aligned documentation with **Agile methodologies**, ensuring timely delivery and release readiness
-  *Products:* In-House Products 
+  *Products:* In-House Products
+  
+##  👉 🎯 Professional Engagement & Extracurricular Activities
+- Volunteered in T**ree Plantation drive**
+- Organized festival celebration **events** for coordination, and smooth execution
+- Represented team in **office sports tournaments**, demonstrating teamwork, discipline, and competitive spirit
+- Won **First Prize** in Noida **Table-Tennis championship** 2023 for Mixed Double
+
 ## 🎓 Education
 
 - **Master's Degree** in Control Systems - Amity University (2014-2016)
-- **[Bachelor's Degree]** in ECE - Lovely Professional University (2009-2013)
+- **Bachelor's Degree** in ECE - Lovely Professional University (2009-2013)
 
 ## 📫 Get In Touch
 
